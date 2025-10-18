@@ -1,0 +1,204 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+*{
+
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;
+}
+
+
+.head-section-kk .main-heading-kk{
+
+    display: flex;
+    font-size: 28px;
+    font-weight: 600;
+    background-color: #d3d3d3;
+    width: auto;
+    height: 88px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.head-section-kk .sub-heading-kk{
+
+    color: #282828;
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 36px;
+    margin-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+
+}
+
+.head-section-kk p.text-bracket{
+
+    color: #282828;
+    font-size: 24px;
+    padding-left: 16px;
+    padding-right: 16px;
+
+}
+
+
+.head-section-kk .bracket-bold-tt{
+
+    color: #282828;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 5px;
+    padding-left: 16px;
+    padding-right: 16px;
+} 
+
+.content-kk-wr{
+
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.content-kk-wr .kub-heading{
+
+    color: #282828;
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+.content-kk-wr .list-section{
+
+    margin-top: 24px;
+}
+
+
+.content-kk-wr .list-section .list-heading{
+
+    color: #282828;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 18px;
+    
+}
+
+.content-kk-wr .list-section ul{
+
+    margin-left: 16px;
+    margin-bottom: 44px;
+}
+
+
+.content-kk-wr .list-section ul li{
+
+    margin-bottom: 12px;
+}
+
+
+.content-kk-wr .list-section ul li .bold-text-texer{
+
+    color: #282828;
+    font-weight: 600;
+}
+
+
+
+
+
+
+
+
+
+.content-inside{
+
+    margin-top: 40px;
+    margin-bottom: 32px;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+.content-inside .content-one{
+
+    color: #282828;
+    margin-bottom: 40px;
+}
+
+.content-inside .content-one .phone-number-text{
+
+    font-size: 24px;
+    color: #282828;
+    font-weight: 600;
+
+}
+
+.content-inside .content-one .phone-number-num{
+
+    font-size: 30px;
+    color: #282828;
+    width: fit-content;
+    height: fit-content;
+    margin-top: 16px;
+}
+
+.content-inside .content-two{
+
+    color: #282828;
+}
+
+.content-inside .content-two .call-us-text{
+
+    font-size: 24px;
+    color: #282828;
+    font-weight: 600;
+}
+
+.content-inside .content-two .wrap-schedule{
+
+    margin-top: 32px;
+}
+
+.content-inside .content-two .wrap-schedule .schedule-head{
+
+    font-size: 20px;
+    color: #282828;
+    font-weight: 500;
+    margin-bottom: 12px;
+}
+
+.content-inside .content-two .wrap-schedule .schedule-time{
+
+    font-size: 18px;
+    color: #282828;
+}
+
+.content-inside .call-us-button{
+
+    background-color: #4d4d4d;
+    font-size: 18px;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 132px;
+    height: 48px;
+    margin-top: 30px;
+    border-radius: 12px;
+}
+
+
+
+.content-inside .call-us-button:active{
+
+    background-color: red;
+}
