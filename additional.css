@@ -64,55 +64,44 @@ body{
     padding-right: 16px;
 } 
 
-.content-kk-wr{
 
-    padding-left: 16px;
-    padding-right: 16px;
-}
+.container-list {
 
-.content-kk-wr .kub-heading{
-
-    color: #282828;
-    font-size: 22px;
-    font-weight: 600;
-    margin-top: 32px;
-}
-
-.content-kk-wr .list-section{
-
-    margin-top: 24px;
-}
-
-
-.content-kk-wr .list-section .list-heading{
-
-    color: #282828;
-    font-size: 20px;
-    font-weight: 600;
-    margin-bottom: 18px;
-    
-}
-
-.content-kk-wr .list-section ul{
-
+    margin-top: 40px;
     margin-left: 16px;
-    margin-bottom: 44px;
+    margin-right: 16px;
+
 }
 
+.list-heading {
 
-.content-kk-wr .list-section ul li{
-
-    margin-bottom: 12px;
-}
-
-
-.content-kk-wr .list-section ul li .bold-text-texer{
-
+    font-size: 24px;
     color: #282828;
     font-weight: 600;
 }
 
 
+.container-list .callout-span {
+
+    color: #282828;
+    font-size: 18px;
+    margin-top: 18px;
+    font-weight: 600;
+}
+
+.container-list ul.location-list {
+
+    margin-top: 20px;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+
+.container-list ul.location-list li {
+
+    font-size: 18px;
+    margin-bottom: 10px;
+}
 
 
 
