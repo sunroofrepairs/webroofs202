@@ -67,7 +67,7 @@ body{
 
 .container-list {
 
-    margin-top: 40px;
+    margin-top: 32px;
     margin-left: 16px;
     margin-right: 16px;
 
@@ -84,7 +84,7 @@ body{
 .container-list .callout-span {
 
     color: #282828;
-    font-size: 18px;
+    font-size: 16px;
     margin-top: 18px;
     font-weight: 600;
 }
@@ -112,7 +112,7 @@ body{
 
 .content-inside{
 
-    margin-top: 40px;
+    margin-top: 28px;
     margin-bottom: 32px;
     margin-left: 16px;
     margin-right: 16px;
