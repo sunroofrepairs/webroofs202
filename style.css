@@ -46,17 +46,16 @@ header section.heading{
     
 }
 
-header section.heading .logo{
 
-    font-size: 20px;
-    font-weight: 600;
-    color: #4d4d4d;
-    width: fit-content;
-    height: fit-content;
-    text-align: center;
-    margin-top: auto;
-    margin-bottom: auto;
-    margin-left: 16px;
+header section.heading img.logo{
+
+    
+    width: 160px;
+    height: 40px;
+    margin-top: 4px;
+    margin-left: 8px;
+
+
 }
 
 header section.heading div.icon-block{
@@ -78,7 +77,7 @@ header section.content{
     flex-direction: column;
     flex-wrap: wrap;
     justify-content: center;
-    background-image: url("images/main-screen-image.jpg");
+    background-image: url("images/display-image.jpg");
     background-color: brown;
     aspect-ratio: 16/14;
     width: 100%;
@@ -103,7 +102,7 @@ header section.content::after {
 header section.content p.content-head{
 
     font-size: 32px;
-    font-weight: bold;
+    font-weight: 600;
     color: #ffffff;
     text-align: center;
     margin-bottom: 12px;
@@ -203,7 +202,7 @@ main article section.block-content{
     margin-left: 16px;
     margin-right: 16px;
     border: 1.3px;
-    border-color: #CCCFD4;
+    border-color: #E4E6EB;
     border-style: solid;
     margin-bottom: 40px;
 }
@@ -352,7 +351,7 @@ main section.block-action button{
     text-decoration: none;
     outline: none;
     color: #ffffff;
-    background-color: #1877f2;
+    background-color: #00cc00;
     border: none;
     border-radius: 50px;
 }
@@ -365,7 +364,7 @@ main section.block-action button:hover{
 
 main section.block-action button:active{
 
-    background-color: #4D9AFF;
+    background-color: #309b30;
 
 }
 
@@ -480,7 +479,7 @@ main section.block-action button:active{
     height: 10px;
     width: 10px;
     border-radius: 25px;
-    background-color: #1877f2;
+    background-color: #00cc00;
 }
 
 .swiper-button-prev, .swiper-button-next {

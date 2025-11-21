@@ -99,9 +99,9 @@ body{
 
 .container-list ul.location-list li {
 
-    font-size: 18px;
+    font-size: 20px;
     margin-bottom: 10px;
-    color: #282828;
+    color: rgb(16, 27, 255);
 }
 
 
@@ -135,7 +135,8 @@ body{
 .content-inside .content-one .phone-number-num{
 
     font-size: 30px;
-    color: #282828;
+    font-weight: 500;
+    color: rgb(16, 27, 255);
     width: fit-content;
     height: fit-content;
     margin-top: 16px;
